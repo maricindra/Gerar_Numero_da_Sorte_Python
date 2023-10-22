@@ -21,4 +21,5 @@ numero_aleatorio = armazena o randint com as variaveis oferecidas pelo usuário.
 - Resultado 
 Total de 10 linhas
 3 inputs: quantidade, entre, ate.
-
+2 prints(f) E 2 prints()
+1 loop for
