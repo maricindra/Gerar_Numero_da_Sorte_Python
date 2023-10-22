@@ -8,7 +8,7 @@ print("\n Olá, Seja bem vindo \n")
 quantidade = int(input(print("Escolha quantos número da sorte você quer!\n"))) 
 
 # Mostrar as escolhas do usuário, facilitam os desenvolvedores e os usuários.
-print(f"Ok, então {quantidade} numeros") 
+print(f"Ok, então {quantidade} numeros\n") 
 
 # Oferecer um mundo de opções ao usuário, mas especificando e organizando no sistema.
 entre = int(input(print("Você quer que esses números sejam entre o valor "))) 
