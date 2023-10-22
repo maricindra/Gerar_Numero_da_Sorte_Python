@@ -1,6 +1,5 @@
-#OBJETIVO: GERAR NUMEROS DA SORTE read.me
+#OBJETIVO: GERAR NUMEROS DA SORTE - Detalhes em Read
 # Uso da biblioteca Random.
-read.me
 import random 
 
 # Introdução para o usuário.
