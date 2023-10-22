@@ -29,6 +29,6 @@ for i in range (quantidade):
 # mas Caso fosse usar o While, seria:
 # a = 0
 # while a < quantidade:
-#    numero_aleatorio = random.randint(entre,entrefim)
+#    numero_aleatorio = random.randint(entre,ate)
 #    print(numero_aleatorio)
 #    a = a + 1
