@@ -5,23 +5,22 @@ import random
 print("\n Olá, Seja bem vindo \n") 
 
 # Entrada de dados do tipo inteiro e especifico para o sistema não ter erros.
-quantidade = int(input(print("Escolha quantos número da sorte você quer!\n"))) 
+quantidade = int(input("Escolha, quantos número da sorte você quer? "))
 
 # Mostrar as escolhas do usuário, facilitam os desenvolvedores e os usuários.
-print(f"Ok, então {quantidade} numeros\n") 
+print(f"\nOk, então {quantidade} numeros\n") 
 
 # Oferecer um mundo de opções ao usuário, mas especificando e organizando no sistema.
-entre = int(input(print("Você quer que esses números sejam entre o valor "))) 
-entrefim = int(input(print("ate o ")))
+entre = int(input("Você quer que esses números sejam entre o valor "))
+ate = int(input("ate o "))
 
 # Guiar sempre o usuário com as escolhas realizadas.
-print(f" Gerando numeros aleatorios entre {entre} e {entrefim}")                
+print(f"\nGerando numeros aleatorios entre {entre} e {ate}")                
 
 # Gerar o solicitado:
 for i in range (quantidade):
-    numero_aleatorio = random.randint(entre,entrefim)
+    numero_aleatorio = random.randint(entre,ate)
     print (numero_aleatorio)
-
 
 
 #--------------------- total de 10 linhas------------
