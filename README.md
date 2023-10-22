@@ -2,14 +2,15 @@
 
 OBJETIVO: GERAR NUMEROS DA SORTE 
 
-->Pontos atraentes no codigo:
+-> Pontos atraentes no codigo:
 - Apresentar e introduzir a proposta ao usuário.
 - Gerar a quantidade exata para o usuário.
 - Gerar entre determinado valor solicitado.
 
 
--> Utilizada a biblioteca random (randint).
--> Utilizado o loop for para um codigo mais organizado.
+-> Como ?
+- Utilizada a biblioteca random (randint).
+- Utilizado o loop for para um codigo mais organizado.
 
 
 -> Variaveis criadas:
@@ -17,6 +18,7 @@ OBJETIVO: GERAR NUMEROS DA SORTE
 - entre = Variavel do tipo inteiro para determinar o valor inicial no randint da biblioteca random.
 - ate = Variavel do tipo inteiro para determinar o valor final no randint da biblioteca random.
 - numero_aleatorio = armazena o randint com as variaveis oferecidas pelo usuário.
+
 
 -> Resultado 
 - Total de 10 linhas
